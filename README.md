@@ -1,5 +1,5 @@
 # Meal Recipes
-<img src='./readmeimg/meals1.png' width='150'/> <img src='./readmeimg/meals2.png'  width='150'/> <img src='./readmeimg/meals3.png'  width='150'/>
+<img src='./readmeImg/meals1.png' width='150'/> <img src='./readmeImg/meals2.png'  width='150'/> <img src='./readmeImg/meals3.png'  width='150'/>
 
 
 # About

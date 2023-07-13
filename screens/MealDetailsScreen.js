@@ -61,11 +61,11 @@ const styles = StyleSheet.create({
     margin : 8,
     fontSize: 24,
     textAlign: "center",
-    color: 'white',
+    color: '#772222',
   },
 
   detailText:{
-    color: 'white',
+    color: '#680f0f',
   },
   listContainer: {
     maxWidth: '80%',

@@ -9,6 +9,7 @@ import MealsOverviewScreen from './screens/MealsOverviewScreen';
 import MealDetails from './screens/MealDetailsScreen';
 import MealDetailsScreen from './screens/MealDetailsScreen';
 import FavoritesScreen from './screens/FavoritesScreen';
+import FavoritesContextProvider from './store/context/favorites-context';
 
 
 const Stack = createNativeStackNavigator();
@@ -50,6 +51,8 @@ export default function App() {
     <>
     <StatusBar style="light"/>
 
+    <FavoritesContextProvider>
+
     <NavigationContainer>
       <Stack.Navigator screenOptions={{
       
@@ -82,8 +85,8 @@ export default function App() {
         }}        
         />
       </Stack.Navigator>
-    </NavigationContainer>
-    
+     </NavigationContainer>
+    </FavoritesContextProvider>
     
     </>  
 

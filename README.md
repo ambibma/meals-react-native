@@ -4,7 +4,7 @@
 
 # About
 
-Meal Recipes is a mobile app is an Application created in React Native Udemy Course. Meals demonstrates and understanding of working with data and implementing navigation with React Stack Navigator. Utilizing out of the box react native elements and animations. 
+Meal Recipes is a mobile app is an Application created in React Native. Meals demonstrates and understanding of working with data and implementing navigation with React Stack Navigator. Utilizing out of the box react native elements and animations. 
 
 # Install/Setup
 
